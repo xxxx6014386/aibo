@@ -696,7 +696,7 @@ h1.card-header{
   .inani{
     transition:1.8s;
     display: flex;
-    background-image: url(iimg/c2.png),url(iimg/s.png);
+    background-image: url(iimg/c.png),url(iimg/s.png);
     background-size: 70%,60%;
     background-repeat: no-repeat;
     background-position:bottom  , top;

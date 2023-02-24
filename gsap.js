@@ -1,5 +1,5 @@
 gsap.from(".bar", {
-  scrollTrigger: ".p4" ,
+  scrollTrigger: ".p1to" ,
   scaley:0,
   duration: 0.6,
   opacity:0,
@@ -15,7 +15,7 @@ gsap.from(".bar", {
 
 
 gsap.to(".bar", {
-  scrollTrigger: ".p4" ,
+  scrollTrigger: ".p1to" ,
   y:0,
  
   duration: .6,

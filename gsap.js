@@ -41,7 +41,7 @@ gsap.to('.f4', { y: '-100%', ease: 'power2.in' ,delay:0.8} )
 
 gsap.from(".p1to", {
   scrollTrigger: ".p1" ,
-  x:200,
+  x:70,
   duration: 1.2
  
   
@@ -52,7 +52,7 @@ gsap.to(".p1to", {
   
  
   X:0,
-  duration: 3.2
+  duration: 1.2
   
 });
 

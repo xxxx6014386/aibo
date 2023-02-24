@@ -693,21 +693,21 @@ h1.card-header{
     
   }
 
-  .inani{
+ .inani{
     transition:1.8s;
     display: flex;
-    background-image: url(iimg/c.png),url(iimg/s.png);
-    background-size: 70%,60%;
+    background-image: url(iimg/bg4.png);
+    background-size: 70%;
     background-repeat: no-repeat;
-    background-position:bottom  , top;
+    background-position:top ;
     
     
   }
   .inani2{
     transition:1.8s;
-    background-image: url(iimg/c.png),url(iimg/s.png);
-    background-size: 120%,120%;
-    background-position:bottom  , top;
+    
+    background-size: 250%;
+    background-position:bottom;
     
     
     
